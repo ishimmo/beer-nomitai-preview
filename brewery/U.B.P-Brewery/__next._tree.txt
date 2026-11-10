@@ -1,0 +1,2 @@
+:HL["/beer-nomitai-preview/_next/static/chunks/25_5ieywv7e8u.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"brewery","param":null,"prefetchHints":4160,"slots":{"children":{"name":"slug","param":{"type":"d","key":"U.B.P-Brewery","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"oD0k2j3SSHe1TU3k5CveF"}

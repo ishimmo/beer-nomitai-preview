@@ -1,0 +1,2 @@
+:HL["/beer-nomitai-preview/_next/static/chunks/25_5ieywv7e8u.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"brewery","param":null,"prefetchHints":4160,"slots":{"children":{"name":"slug","param":{"type":"d","key":"NAMACHA%E3%82%93-Brewing%E7%AC%AC3%E5%B7%A5%E5%A0%B4%E5%8C%97%E6%B1%A0%E8%A2%8B%E5%BA%97","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"oD0k2j3SSHe1TU3k5CveF"}

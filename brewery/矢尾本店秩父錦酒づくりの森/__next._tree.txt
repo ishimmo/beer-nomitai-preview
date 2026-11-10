@@ -1,0 +1,2 @@
+:HL["/beer-nomitai-preview/_next/static/chunks/25_5ieywv7e8u.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"brewery","param":null,"prefetchHints":4160,"slots":{"children":{"name":"slug","param":{"type":"d","key":"%E7%9F%A2%E5%B0%BE%E6%9C%AC%E5%BA%97%E7%A7%A9%E7%88%B6%E9%8C%A6%E9%85%92%E3%81%A5%E3%81%8F%E3%82%8A%E3%81%AE%E6%A3%AE","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"oD0k2j3SSHe1TU3k5CveF"}

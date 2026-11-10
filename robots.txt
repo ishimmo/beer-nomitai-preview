@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /
+
+Sitemap: https://ishimmo.github.io/beer-nomitai-preview/sitemap.xml
